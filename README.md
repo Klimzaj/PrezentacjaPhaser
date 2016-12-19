@@ -1,3 +1,3 @@
 # PrezentacjaPhaser
 
-wrazie pytań, pytajcie
+w razie pytań, pytajcie
