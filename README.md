@@ -1,1 +1,3 @@
 # PrezentacjaPhaser
+
+wrazie pytań, pytajcie
